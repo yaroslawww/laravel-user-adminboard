@@ -20,5 +20,3 @@ build:
 checks:
   php:
     fix_doc_comments: true
-  © 2022 GitHub, Inc.
-  Terms
