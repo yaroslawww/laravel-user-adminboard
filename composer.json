@@ -54,7 +54,7 @@
                 "UserAdmin\\ServiceProvider"
             ],
             "aliases": {
-                "UserAdmin": "UserAdmin"
+                "UserAdmin": "UserAdmin\\Facades\\UserAdmin"
             }
         }
     },
